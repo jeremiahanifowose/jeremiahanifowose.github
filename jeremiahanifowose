@@ -1,0 +1,84 @@
+‎<!DOCTYPE html>
+‎<html lang="en">
+‎<head>
+‎  <meta charset="UTF-8" />
+‎  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+‎  <title>Anifowose Jeremiah - Backend Developer</title>
+‎  <style>
+‎    body {
+‎      font-family: Arial, sans-serif;
+‎      background: #f4f4f9;
+‎      margin: 0;
+‎      padding: 0;
+‎      color: #333;
+‎    }
+‎    header {
+‎      background: #2c3e50;
+‎      color: white;
+‎      padding: 2rem;
+‎      text-align: center;
+‎    }
+‎    section {
+‎      max-width: 800px;
+‎      margin: 2rem auto;
+‎      background: white;
+‎      padding: 2rem;
+‎      border-radius: 8px;
+‎      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+‎    }
+‎    h1, h2 {
+‎      color: #2c3e50;
+‎    }
+‎    .contact {
+‎      margin-top: 1rem;
+‎    }
+‎    footer {
+‎      text-align: center;
+‎      padding: 1rem;
+‎      color: #777;
+‎    }
+‎  </style>
+‎</head>
+‎<body>
+‎  <header>
+‎    <h1>Anifowose Jeremiah</h1>
+‎    <p>Back-End Web Developer</p>
+‎  </header>
+‎
+‎  <section>
+‎    <h2>About Me</h2>
+‎    <p>
+‎      I am an enthusiastic backend web developer eager to craft efficient and scalable digital solutions. Proficient in Python, Node.js, and SQL, I am dedicated to mastering server-side development and ensuring seamless functionality. Known for my problem-solving mindset and commitment to learning, I bring a fresh perspective to every project. Outside of coding, I enjoy exploring tech trends and creative writing, fueling my curiosity and drive.
+‎    </p>
+‎  </section>
+‎
+‎  <section>
+‎    <h2>Skills</h2>
+‎    <ul>
+‎      <li>Python</li>
+‎      <li>Node.js</li>
+‎      <li>SQL</li>
+‎      <li>RESTful APIs</li>
+‎      <li>Database Management</li>
+‎      <li>Version Control (Git/GitHub)</li>
+‎    </ul>
+‎  </section>
+‎
+‎  <section>
+‎    <h2>Projects</h2>
+‎    <p>No projects yet — currently learning and building!</p>
+‎  </section>
+‎
+‎  <section>
+‎    <h2>Contact</h2>
+‎    <div class="contact">
+‎      <p>Email: <a href="mailto:jeremiahanifowose026@gmail.com">jeremiahanifowose026@gmail.com</a></p>
+‎    </div>
+‎  </section>
+‎
+‎  <footer>
+‎    <p>&copy; 2025 Anifowose Jeremiah. All rights reserved.</p>
+‎  </footer>
+‎</body>
+‎</html>
+‎
